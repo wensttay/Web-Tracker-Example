@@ -67,7 +67,8 @@ func exibirIntroducao() {
 	versao := 1.10
 
 	// fmt.Println("Hello Sr.", nome, ",sua idade é:", idade)
-	fmt.Println("###########################\n### Web Tracker Example ###\n###########################\n")
+	fmt.Println("###########################\n### Web Tracker Example ###\n###########################")
+	fmt.Println()
 	fmt.Println("Está programa está na versão:", versao)
 }
 
